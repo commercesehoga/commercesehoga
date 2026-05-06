@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ About Me<br>👨‍💻 Building ThunderStudy – a free learning platform for students<br>📚 Creating study materials for CBSE & CUET preparation<br>🧠 Designing mock tests & exam practice systems<br>💯 Best Project Thunderstudy CBT<br>📊 Developing performance tracking dashboards<br>🚀 Focused on EdTech & student growth solutions<br>🎯 Mission: Make quality education free & accessible<br>💡 Always learning, building, and improving
+✨ About Me<br>👨‍💻 Building ThunderStudy – a free learning platform for students<br>📚 Creating study materials for CBSE & CUET & Other Exam preparation<br>🧠 Designing mock tests & exam practice systems<br>💯 Best Project Thunderstudy CBT<br>📊 Developing performance tracking dashboards<br>🚀 Focused on EdTech & student growth solutions<br>🎯 Mission: Make quality education free & accessible<br>💡 Always learning, building, and improving
 
 
 ## 🌐 Socials:
